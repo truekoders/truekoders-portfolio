@@ -11,7 +11,7 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 ### 1. 🔐 Secure Multi-Tier Cloud Deployment
 **Overview:** Automated deployment of a secure, scalable, multi-tier infrastructure on AWS.  
 **Tech Stack:** AWS, Terraform, Docker, GitHub Actions  
-📄 [Case Study](./project1/README.md)  
+📄 [Case Study](./aws-multi-tier-infra/README.md)  
 
 ---
 
