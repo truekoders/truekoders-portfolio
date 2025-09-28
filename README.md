@@ -40,7 +40,7 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 
 ## 🛠️ Tech Toolbox
 
-- **Cloud:** AWS, GCP  
+- **Cloud:** AWS  
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **IaC & Automation:** Terraform, GitHub Actions  
 - **Databases:** MySQL, MongoDB, PostgreSQL  
