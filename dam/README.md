@@ -26,13 +26,8 @@ It improves workflow efficiency, ensures secure access, and provides an easy way
 
 ---
 
-## 🖼️ Screenshots
-
-### 1. Landing Page  
-![DAM Landing Page](./dam-landing.png)  
-
-### 2. Dashboard View  
-![DAM Dashboard](./dam-dashboard.png)  
+## 🖼️ Architecture diagram
+![DAM Landing Page](./dam-architecture.png)  
 
 ---
 
