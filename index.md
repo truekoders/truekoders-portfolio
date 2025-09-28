@@ -11,9 +11,9 @@ This portfolio highlights selected case studies and client-ready projects.
   Scalable AWS infrastructure with automated CI/CD pipelines.  
   👉 [Read Case Study](./project1/README.md)  
 
-- 🚀 **Containerized Microservices Platform**  
-  Kubernetes-powered platform with monitoring and logging.  
-  👉 [Read Case Study](./project2/README.md)  
+- 🚀 **Automated Flask App Deployment with Terraform**  
+  Deploying a Flask web application on AWS using Terraform provisioners.  
+  👉 [Read Case Study](./aws-flask-deploy-terraform/README.md)   
 
 - 🌐 **Automated Web Application Delivery**  
   Zero-downtime deployments for modern web applications.  
