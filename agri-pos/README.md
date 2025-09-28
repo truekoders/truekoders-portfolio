@@ -27,10 +27,13 @@ It streamlines sales, inventory, and customer management while offering real-tim
 
 ## 🖼️ Screenshots
 
-### 1. POS Billing Screen  
+### 2. Architecture Diagram   
+![Agri POS Dashboard](./agri-pos-architecture.png)
+
+### 2. POS Billing Screen  
 ![Agri POS Billing](./agri-pos-billing.png)  
 
-### 2. Inventory Dashboard  
+### 3. Inventory Dashboard  
 ![Agri POS Dashboard](./agri-pos-dashboard.png)  
 
 ---
