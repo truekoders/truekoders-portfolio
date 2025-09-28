@@ -27,7 +27,7 @@ It improves workflow efficiency, ensures secure access, and provides an easy way
 ---
 
 ## 🖼️ Architecture diagram
-![DAM Landing Page](./dam-architecture.png)  
+![DAM Landing Page](./dam_architecture.png)  
 
 ---
 
