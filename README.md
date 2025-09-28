@@ -15,10 +15,10 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 
 ---
 
-### 2. 🚀 Containerized Microservices Platform
-**Overview:** Production-ready microservices platform with monitoring and logging.  
-**Tech Stack:** Kubernetes, Docker, Prometheus, Grafana  
-📄 [Case Study](./project2/README.md)  
+### 2. 🚀 Automated Flask App Deployment with Terraform
+**Overview:** End-to-end deployment of a Flask web application on AWS using Terraform provisioners.  
+**Tech Stack:** AWS, Terraform, Flask, EC2  
+📄 [Case Study](./aws-flask-deploy-terraform/README.md)  
 
 ---
 
