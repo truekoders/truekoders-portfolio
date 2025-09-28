@@ -23,17 +23,17 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 ---
 
 ### 3. 📁 Document & Asset Management (DAM)
-**Overview:** A system to organize, store, and retrieve digital files (documents, images, videos).  
+**Overview:** A Laravel-based system to organize, store, and retrieve digital files (documents, images, videos).  
 **Business Value:** Improved workflow, secure storage, and easy file access.  
-**Tech Stack:** Node.js, Express, MongoDB, AWS S3  
+**Tech Stack:** Laravel, Blade, MySQL, AWS S3, AWS CloudFront  
 📄 [Case Study](./dam/README.md)  
 
 ---
 
 ### 4. 🌾 Agri POS System
-**Overview:** Smart Point of Sale system for agri-stores and farm supply businesses.  
+**Overview:** Smart Point of Sale solution for agri-stores and farm supply businesses.  
 **Business Value:** Streamlined sales, inventory, and customer management.  
-**Tech Stack:** PHP/Laravel, MySQL, Bootstrap, Docker  
+**Tech Stack:** Laravel, Blade, MySQL, Docker, AWS  
 📄 [Case Study](./agri-pos/README.md)  
 
 ---
@@ -44,7 +44,7 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **IaC & Automation:** Terraform, GitHub Actions  
 - **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Frameworks & Languages:** Node.js, Laravel, Python, Bash  
+- **Frameworks & Languages:** Laravel, Node.js, Python, Bash  
 - **Monitoring:** Prometheus, Grafana, ELK  
 
 ---
