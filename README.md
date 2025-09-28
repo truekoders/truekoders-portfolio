@@ -22,14 +22,7 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 
 ---
 
-### 3. 🌐 Automated Web Application Delivery
-**Overview:** End-to-end automation for building and deploying a web application.  
-**Tech Stack:** Node.js, Nginx, Docker, AWS EC2  
-📄 [Case Study](./project3/README.md)  
-
----
-
-### 4. 📁 Document & Asset Management (DAM)
+### 3. 📁 Document & Asset Management (DAM)
 **Overview:** A system to organize, store, and retrieve digital files (documents, images, videos).  
 **Business Value:** Improved workflow, secure storage, and easy file access.  
 **Tech Stack:** Node.js, Express, MongoDB, AWS S3  
@@ -37,7 +30,7 @@ Welcome to the **TrueKoders Portfolio** — a showcase of selected projects deli
 
 ---
 
-### 5. 🌾 Agri POS System
+### 4. 🌾 Agri POS System
 **Overview:** Smart Point of Sale system for agri-stores and farm supply businesses.  
 **Business Value:** Streamlined sales, inventory, and customer management.  
 **Tech Stack:** PHP/Laravel, MySQL, Bootstrap, Docker  
