@@ -25,9 +25,7 @@ It highlights **Infrastructure as Code (IaC)** best practices, modular design, a
 
 ---
 
-## 🏗️ Architecture Diagram
-*(Replace with your uploaded diagram image)*  
-
+## 🏗️ Architecture Diagram 
 ![AWS Multi-Tier Architecture](./aws-multi-tier-architecture.png)  
 
 ---
